@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#navbarNav{
+    background-color: rgb(66, 66, 65);
+    padding: 1rem;
+    margin: 0;
+
+}
+
+.nav-link {
+    color: white;
+    font-size: 2rem;
+}
